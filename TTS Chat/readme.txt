@@ -11,3 +11,15 @@ Include Emotes - if true, emojies and emotes will be sent to Speaker.bot to be r
 Voice Alias - The Voice Alias to be used, created on Speaker.bot
 Pretext - Text that always appears before a users text
 Post Text - Text that always appears AFTER a users text
+
+
+How To Install:
+Step 1 - In Streamer.bot, open dropdown menu located in the top left.
+Step 2 - Click Import
+Step 3 - Copy code from import_code.txt and paste into the Import String box
+Step 4 - Click Import 
+    it will warn you if actions with same name exist, asking to overwrite. 
+    If you haven't already imported THIS code before, say no and create backups.
+Step 5 - Under Actions tab, in the TTS Chat group, click on TTS Chat and modify the settings under Sub-Actions as desired.
+    Be sure to modify %Voice Alias% to whatever your Speaker.bot is using
+Step 6 - No resets required, you should be free to begin using it. Right click 'Chat Message' under Triggers and click Test Trigger
